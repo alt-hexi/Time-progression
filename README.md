@@ -1,2 +1,2 @@
 # time-progression
-code idea: liununu
+Link: https://alt-hexi.github.io/time-progression/
